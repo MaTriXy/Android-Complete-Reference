@@ -1,6 +1,6 @@
-# Android-Complete-Reference 
+# Awesome Android Complete Reference [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### About Android-Complete-Reference 
+### About Awesome Android Complete Reference 
 
 A curated list of Android Complete References at one place.
 A complete reference for android developers. Here you can find references about everything you use while Android Development.
@@ -8,9 +8,12 @@ A complete reference for android developers. Here you can find references about 
 ### Third Party Libraries
 
 - [Android Arsenal](http://android-arsenal.com/) - Largest Reference for 3rd party libraries.
-- [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
+- [Networking Libraries](http://android-arsenal.com/tag/65) - Networking libraries.
 - [JStumpp Android Awesome](https://github.com/JStumpp/awesome-android) - The reference for 3rd party libraries.
-- [Android Networking](https://github.com/amitshekhariitbhu/AndroidNetworking) - Android Networking is a powerful library for doing any type of networking in Android applications.
+- [Snowdream Android Awesome](https://github.com/snowdream/awesome-android) - The reference for 3rd party libraries.
+- [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - Android Networking is a powerful library for doing any type of networking in Android applications.
+- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
+- [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Android Awesome UI](https://github.com/wasabeef/awesome-android-ui) - The reference for Android 3rd party UI libraries.
 - [Square Libraries](http://square.github.io/#android) - Android Libraries by Square.
 - [Android Libraries By Facebook](https://code.facebook.com/projects/android) - Android 3rd Party Libraries By Facebook.
@@ -21,16 +24,22 @@ A complete reference for android developers. Here you can find references about 
 - [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
 - [Awesome Android @LibHunt](https://android.libhunt.com/) - Your go-to Android Toolbox.
 - [Android Kotlin Libraries](https://github.com/mcxiaoke/awesome-kotlin) - A reference for 3rd party Kotlin libraries.
+- [Gradle Please](http://gradleplease.appspot.com/) - Gradle Dependencies for Libraries.
 
-### Andoid UI
+### Android UI
 
 - [Android UI/UX](http://androidniceties.tumblr.com/) - The reference for Android Best UI/UX.
 - [Android Icon Generator](https://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android New ConstraintLayout](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1#.g25l4abme) - Exploring the new Android ConstraintLayout.
+- [Material Design Icons](https://materialdesignicons.com/) - Material Design Icons
+- [Material Up](http://www.materialup.com/) - MaterialUp curates the best of Material Design
+- [Holo Colors](http://android-holo-colors.com/) - Holo Colors for icons
 
 ### Performance And Optimization
 
-- [Awesome Andriod Performance](https://github.com/Juude/awesome-android-performance) - The reference for Andriod Performance.
+- [Awesome Android Performance](https://github.com/Juude/awesome-android-performance) - The reference for Android Performance.
+- [Reusing Bitmap Memory](https://medium.com/@amitshekhar/how-to-use-bitmap-pool-in-android-56c71a55533c#.m41wqfk8h) - How to use Bitmap Pool in Android ?
+- [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
 - [Memory Churn and Performance](https://www.youtube.com/watch?v=McAvq5SkeTk&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=60) - Android Performance Patterns: Memory Churn and Performance.
 - [Performance Cost of Memory Leaks](https://www.youtube.com/watch?v=h7qHsk1nWKI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE&index=62) - Android Performance Patterns: Performance Cost of Memory Leaks.
 - [Android Performance Pattern](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu) - Android Performance Pattern from Google. 
@@ -41,16 +50,22 @@ A complete reference for android developers. Here you can find references about 
 - [Android Instant Run](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.5q59i049s) - Instant Run: How Does it Work?.
 - [Method Count Library](http://www.methodscount.com/) - A website to check method count of 3rd party libraries.
 - [Method Count APK](http://inloop.github.io/apk-method-count/) - A website to check method count of an APK.
+- [Using Fast Android Networking](https://medium.freecodecamp.com/simple-and-fast-android-networking-19ed860d1455#.fpcqie1mn) - Android Fast And Easy Networking
+- [Comparing Android NDK and RenderScript](https://medium.freecodecamp.com/comparing-android-ndk-and-renderscript-1a718c01f6fe) - Comparing Android NDK and RenderScript
+- [Android App Optimization Using ArrayMap and SparseArray](https://medium.com/@amitshekhar/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47) - Android App Optimization Using ArrayMap and SparseArray
 
 ### Best Practices
 
+- [Android Development Best Practices](https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3) - Android Development Best Practices.
 - [Must Have Libraries](http://guides.codepath.com/android/Must-Have-Libraries#networking) - Guides for Must Have Libraries.
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Android Best Practices.
+- [Building Android Apps](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.rej785f6d) - Building Android Apps - Better Way.
+- [Thread Pool Executor](https://medium.com/@amitshekhar/threadpoolexecutor-in-android-8e9d22330ee3#.l1ts1b28v) - Using ThreadPoolExecutor in Android.
 - [Developing Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c#.uenqgpr7q) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
 - [Google I/O Android App](https://github.com/google/iosched) - Google I/O Sources Code ,Best Coding Guidelines for Android Developers
 - [Android GitIgnore](https://github.com/github/gitignore/blob/master/Android.gitignore) - Android GitIgnore.
 - [Android Architecture](https://github.com/googlesamples/android-architecture) - Android Architecture Blueprints.
-- [Android Open Project](https://github.com/Trinea/android-open-project) - Android Open Source Project subtotals.
+- [Android Open Project](https://github.com/Trinea/android-open-project/tree/master/English%20Version) - Android Open Source Project subtotals.
 - [Open Source Android App Codes](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications) - List of Android Application which have open source code.
 - [Git Tips](https://github.com/git-tips/tips) - Useful git tips required while development.
 - [API Demo](https://play.google.com/store/apps/details?id=com.hmh.api&hl=en) - Api demo.
@@ -60,6 +75,14 @@ A complete reference for android developers. Here you can find references about 
 
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly AndroidDev Newsletter.
+- [Android Development Useful Tools](https://medium.freecodecamp.com/android-development-useful-tools-fd73283e82e3) - Android Development Useful Tools
+
+### Blogs
+
+- [Android Medium Blog](https://medium.com/@amitshekhar) - Android Medium Blog.
+- [Android Developers Blog](http://android-developers.blogspot.in/) - Android Developers Blog.
+- [Official Android Blog](https://android.googleblog.com/) - Official Android Blog.
+- [Android Blogs](https://github.com/vbauer/android-blogs) - List of blogs about Android.
 
 ### Guides And Tutorials
 
@@ -67,19 +90,27 @@ A complete reference for android developers. Here you can find references about 
 - [Android Examples Codes](https://github.com/commonsguy/cw-omnibus) - The reference for Android Examples Codes.
 - [Android Tutorial Guide](https://commonsware.com/Android/) - The Busy Coder's Guide to Android Development.
 - [Android Sample Codes](https://github.com/googlesamples) - Sample Codes From Google.
+- [Google Code Lab](https://codelabs.developers.google.com/?cat=Android) - Google code lab.
 - [Android Development](https://developer.android.com/index.html) - Android Development complete guide from Google.
 - [Android Guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers.
-- [Android Blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
-- [Vogella Tutorials ](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
+- [Udacity Tutorials](https://www.udacity.com/course/developing-android-apps--ud853) - Udacity Tutorials.
+- [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
+- [Android Examples](https://github.com/nisrulz/android-examples) - Andriod Examples.
+- [Learn RxJava](https://github.com/amitshekhariitbhu/Fast-Android-Networking/wiki/Using-Fast-Android-Networking-Library-With-RxJava) - Simplest way to learn RxJava by example.
+- [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - Learning RxJava for Android by example.
 - [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
 ### TODO
 - Updating it on daily basis as much as possible so that we will be always updated.
 
-### Contact
-- [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
+### Found this project useful :heart:
+* Support by clicking the :star: button on the upper right of this page. :v:
+
+### Contact - Let's become friend
 - [Twitter](https://twitter.com/amitiitbhu)
+- [Github](https://github.com/amitshekhariitbhu)
 - [Medium](https://medium.com/@amitshekhar)
+- [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
